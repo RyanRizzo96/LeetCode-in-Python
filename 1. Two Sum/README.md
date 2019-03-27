@@ -15,8 +15,8 @@ ___
 
 |  |Runtime  | Memory Usage |
 |--|--|--|
-|1_Brute_Force.py  | 5068 ms |12.8 MB |
-|2_Hash_Table.py | 64 ms | 13.3 MB
+|1_brute_force.py  | 5068 ms |12.8 MB |
+|2_hash_table.py | 64 ms | 13.3 MB
 
 ___
 
